@@ -5,3 +5,5 @@ This repository is for the development of the videoNEXT corporate website and al
 videoNEXT, its principals, investors, and clients are not responsible for any ommissions or inaccuracies due to a selected reading from this development environment (e.g. GitHUB). For any clarification, please contact videoNEXT directly about any products or services offered.
 
 Copyright videoNEXT, Federal, Inc. 2018
+
+
